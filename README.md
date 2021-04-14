@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithin-seenivasan.  
+- 👋 Hi, I’m @nithin-seenivasan and I'm a real person not a NinjaCat!  
 - 👀 I’m interested in all things Tech! I love how technology can be used to improve people's lives and make society better for all
 - 🌱 I’m currently learning to make responsive apps (for Android/iOS/web) with AWS and Azure backends
 - :computer: I've built multiple apps for work and for myself, and this repo contains some of my hobby Flutter and Python projects
