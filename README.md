@@ -1,11 +1,20 @@
+## About me!
+
 - 👋 Hi, I’m @nithin-seenivasan and I'm a real person not a NinjaCat!  
 - 👀 I’m interested in all things Tech! I love how technology can be used to improve people's lives and make society better for all
-- 🌱 I’m currently learning to make responsive apps (for Android/iOS/web) with AWS and Azure backends
-- :computer: I've built multiple apps for work and for myself, and this repo contains some of my hobby Flutter and Python projects
-- :file_folder: My app on Google Play Store [GroceryViz](https://play.google.com/store/apps/details?id=grocery.viz "GroceryViz") is a Grocery analysis app that uses   Flutter for the frontend with a combination of OCR (using Amazon's AWS Textract), Serverless computing (using AWS Lambda running Python scripts), NoSQL DB (using AWS DynamoDB), GraphQL based messaging (using AWS AppSync) as well as cloud based user authentication, for the backend. The app's user data is obtained from digital purchase receipts (PNG format) from the loyalty program app ("Lidl Plus") of the supermarket Lidl. 
-- :briefcase: [Current project](https://github.com/nithin-seenivasan/STT-Simple-Teaching-Tracker/ "Simple Teaching Tracker") that I'm working on is a Student Tracking app for teachers giving private lessons. The repo contains a working Android version, and the iOS port is under development.
-- 📫 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/nithinseenivasan/ "LinkedIn Profile") 
+- :computer: I've built multiple apps for work and for myself, and this repo contains some of my hobby projects
+- :pushpin: I'm comfortable working with SQL, C#, Java, VBA, XML and HTML, since working in R&D meant wearing many hats!   
+- 🌱 I’m currently learning to make responsive apps for Android/iOS/web with cloud backends 
+- :file_folder: I have 2 published apps on the Google Play Store (see below for more details)  
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nithinseenivasan/ "LinkedIn Profile") 
 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Apps on Google Play Store:
+- [STT - Simple Teaching Tracker](https://play.google.com/store/apps/details?id=com.stt.private_teaching_tracker "STT - Simple Teaching Tracker"): A simple data collection app for teachers giving private lessons to multiple students. Once the teacher has created a profile for each student, they can press the button "I'm teaching", and the app registers all the relevant information in a local SQFlite database. A monthly summary containing all information about the lessons can be generated as PDF for each student. 
+- [GroceryViz](https://play.google.com/store/apps/details?id=grocery.viz "GroceryViz"): A grocery analysis app that uses Flutter for the frontend with a combination of cloud services such as OCR (Amazon's AWS Textract), Serverless computing (AWS Lambda running Python code), NoSQL DB (AWS DynamoDB), GraphQL based messaging (AWS AppSync) as well as cloud based user authentication (AWS Cognito), for the backend. The app's user data is obtained from digital purchase receipts (PNG format) from the loyalty program app ("Lidl Plus") of the supermarket Lidl. Uploading the receipt runs a cloud based workflow and results in a simple graphical analysis of the grocery purchase
 
 <!---
 nithin-seenivasan/nithin-seenivasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
