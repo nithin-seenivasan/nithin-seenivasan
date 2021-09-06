@@ -5,7 +5,8 @@
 - :computer: I've built multiple apps for work and for myself, and this repo contains some of my hobby projects
 - :cowboy_hat_face: I'm comfortable working with SQL, C#, Java, VBA, XML and HTML. Working in R&D = wearing many hats!   
 - 🌱 I’m currently learning to make responsive cloud-based Flutter apps for Android/iOS/web 
-- :file_folder: I have 2 published apps on the Google Play Store (see below for more details)  
+- :file_folder: I have 2 published apps on the Google Play Store (see below for more details)
+- I'm currently pursuing my MBA at Yale School of Management  
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nithinseenivasan/ "LinkedIn Profile") 
 
 
