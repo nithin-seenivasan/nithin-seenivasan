@@ -1,6 +1,6 @@
 ## About me!
 
-- 👋 Hi, I’m @nithin-seenivasan and I'm a real person not a NinjaCat!  
+- 👋 Hi, I’m @nithin-seenivasan!  
 - 👀 I’m interested in all things Tech! I love how technology can be used to improve people's lives and make society better for all
 - :cowboy_hat_face: I'm comfortable working with SQL, C#, Java, VBA, XML and HTML. Working in R&D = wearing many hats! 
 - :computer: This repo contains some of the apps that I made while learning Flutter    
