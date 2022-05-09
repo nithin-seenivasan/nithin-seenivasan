@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @nithin-seenivasan!  
 - 👀 I’m interested in all things Tech! I love how technology can be used to improve people's lives and make society better for all
 - :cowboy_hat_face: I'm comfortable working with SQL, C#, Java, VBA, XML and HTML. Working in R&D = wearing many hats! 
-- :computer: This repo contains some of the apps that I made while learning Flutter    
+- :computer: This repo contains some of my projects done while taking CS/Data courses during my MBA. It also contains some Flutter apps that I had a lot of fun programming!    
 - :file_folder: I have 2 published apps on the Google Play Store (see below for more details)
 - :student: I'm currently pursuing my MBA at Yale School of Management  
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nithinseenivasan/ "LinkedIn Profile") 
