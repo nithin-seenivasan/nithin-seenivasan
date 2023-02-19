@@ -5,7 +5,7 @@
 - :cowboy_hat_face: I'm comfortable working with Python, Dart, C#, SQL, VBA, and HTML. I'm currently learning Golang.  
 - :computer: This repo contains some of my projects done while taking CS/Data courses during my MBA. It also contains some Flutter apps that I built
 - :file_folder: I have 2 published apps on the Google Play Store (see below for more details)
-- :student: I'm currently pursuing my MBA at Yale School of Management  
+- :student: I'm currently pursuing my MBA at Yale School of Management, and am a teaching assistent for the course [Social Media Analytics](https://github.com/zlisto/social_media_analytics)  
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nithinseenivasan/ "LinkedIn Profile") 
 
 
